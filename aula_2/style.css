@@ -1,0 +1,25 @@
+.container_lista {
+    width: 200px;
+    border: 1px solid;
+}
+.container_lista h2 {
+    text-align: center;
+
+}
+.container_table {
+    border: 1px solid;
+}
+.container_table th{
+    border: 1px solid;
+}
+.container_table td{
+    border: 1px solid;
+}
+.tabulacao {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    width: 200px;
+    text-align: center;
+    justify-content: center;
+}
