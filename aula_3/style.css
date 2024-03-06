@@ -22,6 +22,7 @@
 
 .container {
     border: 1px solid;
+    margin-top: 10px;
 }
 .boxe {
     height: 100px;
@@ -33,6 +34,7 @@
 }
 .container-block {
     border: 1px solid;
+    margin-top: 10px;
 }
 
 .boxe-block {
@@ -50,8 +52,8 @@
 
 .boxe-position {
     position: absolute;
-    top: 730px;
-    left: 388px;
+    top: 740px;
+    left: 120px;
     height: 100px;
     width: 100px;
     background-color: red;
@@ -60,15 +62,44 @@
 }
 
 .container-fixed {
-    border: 1px solid;
+    border: 1px solid; 
 }
 .boxe-fixed {
     position: fixed;
-    top: 730px;
-    left: 388px;
+    top: 0px;
+    left: 0px;
     height: 100px;
-    width: 100px;
+    width: 10px;
     background-color: red;
     margin: 10px;
     border: 1px solid;
+}
+.container-input {
+    margin-top: 10px;
+    
+}
+.container-input input {
+    border-radius: 5px;
+    height: 30px;
+    color: red;
+}
+.container-input2 input {
+    border-radius: 5px;
+    height: 30px;
+    color: red;
+}
+
+.formulario {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    border: 1px solid;
+    gap: 20px;
+}
+.container-radio {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
 }
