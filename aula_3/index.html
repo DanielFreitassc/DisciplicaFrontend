@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="box">
+        <h3>box-model</h3>
+        <p>Lorem ipsum dolor <span style="text-decoration: line-through;">sit amet</span>, consectetur adipisicing elit. Similique, optio sit corrupti velit culpa quidem explicabo quis eveniet fugiat laborum quo tempora commodi voluptate architecto numquam consequatur maxime totam. Consequuntur.</p>
+    </div>
+
+    
+    <div class="container">
+        <h2 style="text-align: center;">Inline</h2>
+        <div class="boxe">
+        </div>
+
+        <div class="boxe">
+        </div>
+        <div class="boxe">
+        </div>
+    </div>
+    <div class="container-block">
+        <h2 style="text-align: center;">Inline block</h2>
+        <div class="boxe-block">
+        </div>
+
+        <div class="boxe-block">
+        </div>
+        <div class="boxe-block">
+        </div>
+    </div>
+
+    <div class="container-position">
+        <div class="boxe-position"></div>
+    </div>
+
+    <div class="container-fixed">
+        <div class="boxe-fixed"></div>
+    </div>
+
+    <form class="formulario" action="#">
+        <div class="container-input">
+            <label for="nome">Nome:</label>
+            <input type="text" name="nome" value="daniel" disabled>
+        </div>
+        <div class="container-input2">
+            <label for="senha">Senha:</label>
+            <input type="password" name="senha" placeholder="senha de no minimo 8 digitos">
+        </div>
+        <div class="container-input2">
+            <label for="cidade">Cidade:</label>
+            <input type="text" name="cidade" placeholder="Digite uma cidade...">
+        </div>
+        <div class="container-input2">
+            <label for="cpf">CPF:</label>
+            <input type="text" name="cpf" placeholder="Digite seu cpf" required>
+        </div>
+        <div class="container-input2">
+            <label for="email">Email:</label>
+            <input type="email" name="email" placeholder="Digite seu email" required>
+        </div>
+        <div class="container-input2">
+            <label for="data">Data:</label>
+            <input type="date" name="data" required>
+        </div>
+        <div class="container-radio">
+            <label>Selecione seu time favorito</label>
+            <div class="radio">
+                <input type="radio" name="radio">
+                <label>vasco</label>
+            </div>
+            <div class="radio">
+                <input type="radio" name="radio">
+                <label>vasco</label>
+            </div>
+            <div class="radio">
+                <input type="radio" name="radio">
+                <label>vasco</label>
+            </div>
+
+        </div>
+        <div>
+            <label for="arquivo">Selecione um arquivo</label>
+            <input type="file" name="arquivo" id="arquivo">
+        </div>
+        <div>
+            <label for="arquivo">Selecione um arquivo</label>
+            <input type="file" name="arquivo" id="arquivo" multiple>
+        </div>
+        <div>
+            <input type="reset" value="resetar">
+            <input type="submit" value="Enviar">
+        </div>
+        
+
+        </div>
+    </form>
+</body>
+</html>
