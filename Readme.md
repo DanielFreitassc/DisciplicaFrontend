@@ -1,4 +1,4 @@
-# 1. Qual a finalidade do DOM (Document Object Model) ?
+![image](https://github.com/DanielFreitassc/FrontendTercaFeira/assets/129224303/bcb40783-275b-4438-a159-bcc96e4dfa8e)# 1. Qual a finalidade do DOM (Document Object Model) ?
 ### R: Manipular elementos HTML, XML XHTML. O DOM permite que os desenvolvedores manipulem dinamicamente o conteúdo, a estrutura e o estilo de uma página da web usando scripts, como JavaScript.
 
 # 2. Através do comando “document.querySelector('#my-title')” o elemento HTML será selecionado via CSS pelo nome de sua classe ou pelo nome de seu ID?
@@ -15,10 +15,16 @@
 ### R: document.querySelectorAll("h3")
 
 # 6. Qual o nome do comando utilizado para selecionar, via DOM, o elemento representado pelo trecho de código abaixo?
+![image](https://github.com/DanielFreitassc/FrontendTercaFeira/assets/129224303/1875f4f3-f29e-4f24-a2ff-d7071d356037)
+
 ### R:  document.getElementById("my-title");
 
 # 7. Qual a finalidade do comando addEventListener() ?
 ### R: Associar um ouvinte de eventos a um elemento específico do DOM. Sua finalidade é permitir que você especifique um código (uma função) que será executado em resposta a um determinado evento ocorrendo no elemento alvo.
 
 # 8. Qual o resultado obtido pelo trecho de código abaixo?
+![image](https://github.com/DanielFreitassc/FrontendTercaFeira/assets/129224303/93bc4632-42fd-4af6-9d2c-56edcb06dbd4)
+
 ### R: e.preventDefault() esta impedindo o comportamento padrão do link  se você clicar no link "Acessar o site", nada acontecerá além de evitar a navegação para a URL especificada no atributo
+
+
