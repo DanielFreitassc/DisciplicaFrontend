@@ -1,29 +1,29 @@
 # 1. Qual o nome da tag utilizada para a descrição de títulos em uma página?
-## R:<title>
+## R: ```<title>```
 
 # 2. Qual o nome da tag utilizada para a inserção de textos?
-## R:<p>
+## R: ```<p>```
 
 # 3. Qual tag gera a quebra de linha em um texto?
-## R:<br>
+## R: ```<br>```
 
 # 4. Qual tag insere uma linha horizontal?
-## R: <hr>
+## R: ```<hr>```
 
 # 5. Em uma tag a, qual a funcionalidade do atributo target=”_blank” ?
-## R: especificar que o link deve ser aberto em uma nova janela ou aba do navegador e permanecer na pagina atual
+## R: ```especificar que o link deve ser aberto em uma nova janela ou aba do navegador e permanecer na pagina atual```
 
 # 6. Qual tag gera uma lista não ordenada?
-## R: <ul>
+## R: ```<ul>```
 
 # 7. Qual tag gera uma lista ordenada?
-## R: <ol>
+## R: ```<ol>```
 
 # 8. Qual a funcionalidade da tag li ?
-## R: Definir um item em uma lista.
+## R: ``` Definir um item em uma lista.```
 
 # 9. Qual funcionalidade da tag div ?
-## R: Criar uma divisão ou seção na pagina
+## R: ```Criar uma divisão ou seção na pagina```
 
 # 10. Qual das opções abaixo é a forma correta de inserção de uma imagem?
 ```
@@ -31,15 +31,15 @@ a. ( ) <img src="assets/imagem.jpg" alt="Imagem"></img>
 b. (X) <img src="assets/imagem.jpg" alt="Imagem">
 ```
 # 11. Em uma tabela, qual a funcionalidade da tag tr ?
-## R: Definir uma linha em uma tabela. 
+## R: ```Definir uma linha em uma tabela.``` 
 
 # 12. Em uma tabela, qual a funcionalidade da tag th ?
-## R:  Definir células de cabeçalho em uma tabela.
+## R:  ```Definir células de cabeçalho em uma tabela.```
 
 # 13. Em uma tabela, qual a funcionalidade da tag td ?
-## R: Definir células de dados de uma tabela.
+## R: ```Definir células de dados de uma tabela.```
 
-# 14. Desenvolva em HTML a estrutura abaixo
+# 14. ```Desenvolva em HTML a estrutura abaixo```
 
 ![image](https://github.com/DanielFreitassc/FrontendTercaFeira/assets/129224303/9bd17194-0e51-451e-a053-f5d2e53a84db)
 
