@@ -5,7 +5,7 @@
 ### R: É usado para definir o valor inicial do campo de entrada quando a página é carregada.
 
 # 3. Qual tipo de informação é possível inserir no trecho de código abaixo:
-````<input type="text" disabled>````
+![image](https://github.com/DanielFreitassc/FrontendTercaFeira/assets/129224303/fb3f2770-6ec8-46bd-852a-889d93eca0c6)
 ### R: Nenhuma pois o campo foi desativado.
 
 # 4. Qual a finalidade do atributo placeholder?
@@ -27,11 +27,14 @@
 ### R: Zero ou mais opções de um conjunto de opções.
 
 # 10. Quanto arquivos é possível anexar com o trecho de códigos abaixo?
-````<input type="file" name="arquivo">````
+![image](https://github.com/DanielFreitassc/FrontendTercaFeira/assets/129224303/4c20ce50-187f-4298-a8b7-44fb0a11cef1)
+
 ### R: É possível anexar apenas um arquivo por vez. 
 
 # 11. Quais os nomes das tags necessárias para a criação de um elemento de seleção simples?
 ### R: select, esta é a tag principal que define o elemento de seleção. e option, esta é a tag usada para definir as opções dentro do elemento de seleção.
 
 # 12. Quantas cidades é possível selecionar através do trecho de código abaixo?
+![image](https://github.com/DanielFreitassc/FrontendTercaFeira/assets/129224303/f0b62a29-51e1-487c-a806-1144efcc66a4)
+
 ### R: Não é possível selecionar nenhuma cidade diretamente.
