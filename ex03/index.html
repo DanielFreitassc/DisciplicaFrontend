@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #p_1 {
+            color: red;
+        }
+
+        #p_2 {
+            display: none;
+        }
+        
+        @media screen and (min-width:500px){
+            #p_1 {
+                display: none;
+            }
+
+            #p_2 {
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p id="p_1">Elemento 1</p>
+        <p id="p_2">Elemento 2</p>
+    </div>
+</body>
+</html>
