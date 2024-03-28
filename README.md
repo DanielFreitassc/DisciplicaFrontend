@@ -14,7 +14,7 @@
 ### R: No elemento pai
 
 # 5. Deseja-se alinhar lado a lado três elementos HTML. Qual valor deve ser atribuído para a propriedade flex-direction?
-### R: Display flex 
+### R: por padrao o display flex já faz isso mas o valor seria o row flex-direction:row; 
 
 # 6. Qual propriedade CSS deve ser configurada para fazer o alinhamento horizontal de um elemento HTML?
 ### R: justify-content
